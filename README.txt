@@ -7,7 +7,8 @@ https://github.com/devasidgmail/coupon_project.git
    -- Frequent visitors accepted 76% of bar coupons
 - Those not having a kid in the car is car are more likely to accept the coupon.
    --  71 % acceptance here.
-- Those with lower income, and frequently visit less expensive restaurants, are as likely to accept the coupon as those with higher income but go less frequently.
+- Those with lower income, and frequently visit less expensive restaurants, 
+  are as likely to accept the coupon as those with higher income but go less frequently.
 
 Future work will involve 
 - Building more accurate models.
